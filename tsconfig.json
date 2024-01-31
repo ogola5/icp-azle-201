@@ -5,5 +5,8 @@
         "moduleResolution": "node",
         "allowJs": true,
         "outDir": "HACK_BECAUSE_OF_ALLOW_JS"
-    }
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
 }
